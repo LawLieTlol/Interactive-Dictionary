@@ -1,0 +1,2 @@
+android.app.Application
+Interactive_Dictionary.Interactive_Dictionary

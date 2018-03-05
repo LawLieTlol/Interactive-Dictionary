@@ -1,0 +1,4 @@
+Interactive_Dictionary.MainActivity, Interactive Dictionary;md505f3156ebecef4af72dfdedf9e8265bd.MainActivity
+Interactive_Dictionary.MainActivity, Interactive Dictionary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md505f3156ebecef4af72dfdedf9e8265bd.MainActivity
+Interactive_Dictionary.MainActivity;md505f3156ebecef4af72dfdedf9e8265bd.MainActivity
+interactive_dictionary.MainActivity;md505f3156ebecef4af72dfdedf9e8265bd.MainActivity

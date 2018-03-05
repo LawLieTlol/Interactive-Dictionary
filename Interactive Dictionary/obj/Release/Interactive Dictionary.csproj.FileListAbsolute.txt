@@ -1,0 +1,38 @@
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\bin\Release\Interactive Dictionary.dll
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\bin\Release\Interactive Dictionary.pdb
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\bin\Release\Interactive_Dictionary.Interactive_Dictionary.apk
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\bin\Release\Interactive_Dictionary.Interactive_Dictionary-Signed.apk
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\Interactive Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\Interactive Dictionary.dll
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\Interactive Dictionary.pdb
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\android\bin\Interactive_Dictionary.Interactive_Dictionary.apk
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\res\layout\results.xml
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\res\layout\main.xml
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\res\values\strings.xml
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\res\drawable\icon.png
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\R.cs.flag
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\uploadflags.txt
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\bin\Release\Interactive Dictionary.dll.mdb
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\obj\Release\android\assets\Interactive Dictionary.dll.mdb
+C:\Users\Lawliet\source\repos\Interactive Dictionary\Interactive Dictionary\bin\Release\Interactive Dictionary.dll
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\Interactive Dictionary.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
